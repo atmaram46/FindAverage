@@ -1,0 +1,2 @@
+# FindAverage
+Sample project
